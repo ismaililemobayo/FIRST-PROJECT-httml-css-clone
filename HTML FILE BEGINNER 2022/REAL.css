@@ -1,0 +1,15 @@
+.submain{
+    background-color:lightblue;
+}
+.submain1{
+	padding:20px 200px 20px 200px;
+	margin: none;
+    background-color: darkblue;
+    color:white;
+    font-size:50px;
+    text-align:right;
+}
+.submenu{
+	background-color:lightgray;
+
+}
